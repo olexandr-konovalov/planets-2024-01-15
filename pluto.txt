@@ -1,1 +1,3 @@
 Pluto is a planet too!
+
+TODO: consult the observatory
