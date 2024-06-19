@@ -1,3 +1,4 @@
 Pluto is a planet too!
 
 TODO: consult the observatory
+DECISION: nideed it is not a planet
